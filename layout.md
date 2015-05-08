@@ -1,1 +1,1 @@
-begin_definition_Let_H_be__.tex
+newtheorem_theorem_Theorem_section_newtheorem__.tex
