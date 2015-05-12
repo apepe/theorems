@@ -1,1 +1,2 @@
 newtheorem_theorem_Theorem_section_newtheorem__.tex
+figures/homer-simpson/homer-simpson.svg
